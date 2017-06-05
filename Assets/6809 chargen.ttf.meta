@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d3181807329214f7aa1f4f9fa03c0451
+timeCreated: 1496475362
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 6809 Chargen
+  fontNames:
+  - 6809 Chargen
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
